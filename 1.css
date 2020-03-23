@@ -1,12 +1,28 @@
-button{
-    width: 300px;
-    background: rgb(0, 0, 0);
-    padding: 50px;
-    border: none;
-    border-radius: 100px;
+body{
+    background-color: #000000;
+    
+}
+h1{
+    color: #ff0000;
     align-self: center;
-    color: #fff;
+    text-align: justify;
+}
+button{
+    width: 360px;
+    background: #000000;
+    padding: 50px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    border-width: 5px;
+    align-self: center;
+    color: #ffffff;
     font-size: 20px;
-    font-weight: 100;
+    font-weight: 500;
     cursor: pointer;
+   
+}
+h2{
+    color: #ffffff;
+    font-style: oblique;
+    font-family: Snell Roundhand, cursive;
 }
